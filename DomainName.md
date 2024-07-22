@@ -18,6 +18,12 @@ A website is a collection of webpages linked together. That is as simple as it g
 
 ---
 
+Webserver
+
+A webserver is a computer that hosts websites on Internet, providing access to them. A webserver may host multiple websites. 
+
+---
+
 ### URL
 
 URL stands for **Uniform Resource Locator**. As its name suggests, it is a link that helps locate some kind of recources you are looking for. An example would be
